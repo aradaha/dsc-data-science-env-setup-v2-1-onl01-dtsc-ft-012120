@@ -124,6 +124,7 @@ dependencies:
   - pyspark=2.4.4
   - python=3.6.9
   - python-dateutil=2.8.0
+  - python-graphviz=0.14=py_0
   - pytz=2019.2
   - pyyaml
   - pyzmq=18.1.0
